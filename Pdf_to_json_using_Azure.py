@@ -63,7 +63,7 @@ def send_pdf_to_azure_ocr(api_key, pdf_path):
     return extracted_text, json_data  # Return both extracted_text and json_data
 
 # Replace 'YOUR_API_KEY' with your actual Azure OCR API key
-api_key = 'b7937eb4867b4764a2a9944bcfa0b6b4'
+api_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 # Replace 'path/to/your/file.pdf' with the path to the PDF file you want to process
 pdf_path = 'Christmas_Carol_Charles_Dickens.pdf'
